@@ -185,32 +185,13 @@ See the [LICENSE](LICENSE) file for licensing details, if included.
 </p>
 Explore Dashboard
 
-
-
-
-
-
-
-
-
-
-
-
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/137e6bce-7466-4e01-bd93-ca6b691d2bb7" />
 
 Trip Planner
 
-
-
-
-
-
-
-
-
-
-
-
+<img width="1400" height="908" alt="image" src="https://github.com/user-attachments/assets/5c5ad2ca-f6f9-462a-99d2-166cfa9f16eb" />
 
 Budget Planner
 
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/8f793a47-ee58-4161-be8d-077bcb6d0709" />
 
