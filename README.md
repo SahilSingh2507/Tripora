@@ -10,8 +10,8 @@ The project focuses on making travel planning simple, organized, and accessible 
 
 ## 📸 Application Preview
 
-<!-- Add your application screenshot inside docs/screenshots/ -->
-![Tripora Explore Dashboard](docs/screenshots/explore-dashboard.png)
+<img width="1240" height="820" alt="image" src="https://github.com/user-attachments/assets/6d6149c7-1d30-43c3-9ad4-58a909c3ee76" />
+
 
 ---
 
